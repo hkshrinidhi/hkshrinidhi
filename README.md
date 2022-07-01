@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkshrinidhi
 - 👀 I’m interested in Web application development and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any basic data analysis projects
+- 🌱 I’m currently learning Spring Microservices
+- 💞️ I’m looking to collaborate on any web application projects
 - 📫 How to reach me --- itsmeshrinidhi@gmail.com
 
 <!---
